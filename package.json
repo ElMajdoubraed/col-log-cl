@@ -7,10 +7,10 @@
     "typescript": "^5.1.6"
   },
   "name": "col-log-cl",
-  "description": "A colorful logger for Node.js. It is useful for debugging color issues in terminal applications.",
-  "version": "1.0.4",
+  "description": "col-log-cl is a colorful logger for Node.js. It is useful for debugging color issues in terminal applications.",
+  "version": "1.1.0",
   "main": "./build/index.js",
-  "icon": "https://lodash.com/icon.svg",
+  "icon": "https://raed.elmajdoub.live/favicon.ico",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rimraf ./build && tsc",
@@ -26,7 +26,8 @@
     "nodejs",
     "node",
     "color",
-    "colorful"
+    "colorful",
+    "logger"
   ],
   "author": {
     "name": "Raed Elmajdoub",
