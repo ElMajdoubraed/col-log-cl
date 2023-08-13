@@ -6,7 +6,7 @@
 ​
 
 ## Usage
-```
+```javascript
 const cl = require("col-log-cl");
 
 cl.log("Hello, World!");
@@ -42,7 +42,7 @@ cl.highlight("This is a highlighted message");
 ### Help
 > To get help with col-log-cl, run the following command:
 
-```
+```javascript
 const cl = require("col-log-cl");
 cl.help(​);
 ```
